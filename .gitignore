@@ -1,5 +1,8 @@
 archive
 node_modules
 
-
+#gitignore file
 /credentials.py
+
+#gitignore folder
+text/*.txt
